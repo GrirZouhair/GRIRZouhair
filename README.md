@@ -85,16 +85,10 @@ const zouhair: Developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zouhairgrir)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zouhairgrir.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grirzouhair)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://grirzouhair.github.io/myportfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zouhairgrir937@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zogrir_76940)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1264878392491376720)
 
 </div>
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zouhairgrir&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
-  
-  ⭐️ **From [Zouhair Grir](https://github.com/zouhairgrir)** - *Building the future, one commit at a time*
 </div>
